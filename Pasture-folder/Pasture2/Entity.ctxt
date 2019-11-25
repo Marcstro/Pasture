@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=
+comment1.target=void\ tick()
+comment2.params=
+comment2.target=javax.swing.ImageIcon\ getImage()
+comment3.params=
+comment3.target=int\ getSpecies()
+comment4.params=
+comment4.target=boolean\ checkLife()
+comment5.params=
+comment5.target=void\ kill()
+comment6.params=
+comment6.target=void\ fed()
+comment7.params=otherEntity
+comment7.target=boolean\ isCompatible(Entity)
+comment8.params=direct
+comment8.target=void\ direct(int)
+numComments=9

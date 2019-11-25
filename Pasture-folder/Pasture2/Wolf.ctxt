@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Wolf
+comment1.params=pasture
+comment1.target=Wolf(Pasture)
+comment10.params=a\ b
+comment10.target=float\ dist(java.awt.Point,\ java.awt.Point)
+comment11.params=
+comment11.target=int\ getSpeed()
+comment12.params=d
+comment12.target=void\ direct(int)
+comment2.params=pasture\ alive
+comment2.target=Wolf(Pasture,\ boolean)
+comment3.params=
+comment3.target=void\ tick()
+comment4.params=
+comment4.target=javax.swing.ImageIcon\ getImage()
+comment5.params=otherEntity
+comment5.target=boolean\ isCompatible(Entity)
+comment6.params=
+comment6.target=int\ getSpecies()
+comment7.params=
+comment7.target=void\ kill()
+comment8.params=
+comment8.target=boolean\ checkLife()
+comment9.params=
+comment9.target=void\ fed()
+numComments=13

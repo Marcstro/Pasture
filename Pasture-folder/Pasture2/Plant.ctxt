@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Plant
+comment1.params=pasture
+comment1.target=Plant(Pasture)
+comment10.params=d
+comment10.target=void\ direct(int)
+comment2.params=pasture\ alive
+comment2.target=Plant(Pasture,\ boolean)
+comment3.params=
+comment3.target=void\ tick()
+comment4.params=
+comment4.target=javax.swing.ImageIcon\ getImage()
+comment5.params=
+comment5.target=void\ kill()
+comment6.params=otherEntity
+comment6.target=boolean\ isCompatible(Entity)
+comment7.params=
+comment7.target=int\ getSpecies()
+comment8.params=
+comment8.target=void\ fed()
+comment9.params=
+comment9.target=boolean\ checkLife()
+numComments=11

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PastureGUI
+comment1.params=width\ height\ engine
+comment1.target=PastureGUI(int,\ int,\ Engine)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e\ p
+comment3.target=void\ addEntity(Entity,\ java.awt.Point)
+comment4.params=
+comment4.target=void\ sizeWithoutFence()
+comment5.params=e\ old\ ny
+comment5.target=void\ moveEntity(Entity,\ java.awt.Point,\ java.awt.Point)
+comment6.params=e\ p
+comment6.target=void\ removeEntity(Entity,\ java.awt.Point)
+comment6.text=\r\n\ The\ method\ removeEntity\ is\ called\ to\ notify\ the\ GUI\ that\ an\r\n\ entity\ has\ been\ removed\ from\ a\ position.\ One\ icon\ among\ the\r\n\ icons\ of\ the\ remaining\ entities\ is\ displayed\ at\ the\ position.\r\n
+comment7.params=
+comment7.target=void\ update()
+numComments=8
